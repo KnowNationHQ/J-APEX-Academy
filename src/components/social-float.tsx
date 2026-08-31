@@ -28,9 +28,9 @@ export function SocialFloat() {
   ];
 
   return (
-    <div className="fixed bottom-4 right-4 z-50 flex flex-col items-end gap-3 sm:bottom-5 sm:right-5">
+    <div className="fixed bottom-4 right-4 z-50 flex flex-col items-center gap-3 sm:bottom-5 sm:right-5">
       <div
-        className={`flex flex-col items-end gap-3 transition-all duration-300 ${
+        className={`flex flex-col items-center gap-3 transition-all duration-300 ${
           open ? "opacity-100 translate-y-0" : "pointer-events-none translate-y-3 opacity-0"
         }`}
       >
