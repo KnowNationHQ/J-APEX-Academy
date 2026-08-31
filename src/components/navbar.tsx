@@ -34,7 +34,7 @@ export function Navbar() {
     >
       <nav className="container-x flex h-16 items-center justify-between">
         <Link href="/" className="flex items-center">
-            <span className="relative block h-10 w-16 overflow-hidden sm:h-12 sm:w-20 md:h-14 md:w-24">
+            <span className="relative block h-12 w-20 overflow-hidden sm:h-14 sm:w-24 md:h-16 md:w-28">
             <Image
               src="/logo.png"
               alt="J-APEX Academy"

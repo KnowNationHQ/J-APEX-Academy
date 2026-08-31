@@ -29,7 +29,7 @@ export function Footer() {
       <div className="container-x grid gap-10 py-14 md:grid-cols-4">
         <div className="md:col-span-2">
           <Link href="/" className="flex items-center">
-            <span className="relative block h-12 w-20 overflow-hidden md:h-14 md:w-24">
+            <span className="relative block h-14 w-24 overflow-hidden md:h-16 md:w-28">
               <Image
                 src="/logo.png"
                 alt="J-APEX Academy"
