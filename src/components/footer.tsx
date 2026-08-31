@@ -79,6 +79,7 @@ export function Footer() {
       <div className="border-t border-white/10">
         <div className="container-x flex flex-col gap-2 py-5 text-xs text-brand-100/60 sm:flex-row sm:items-center sm:justify-between">
           <p>© {new Date().getFullYear()} J-APEX Academy. All rights reserved.</p>
+          <p>A project by Know Nation Limited</p>
           <p>Expert tutors from UNILAG & OAU · ScholarBoard results tracking</p>
         </div>
       </div>
