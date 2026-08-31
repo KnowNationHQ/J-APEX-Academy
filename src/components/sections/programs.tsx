@@ -10,8 +10,8 @@ const programs = [
     text: "Full coverage of WASSCE subjects with past question drills and marking scheme feedback.",
     points: [
       "All core and elective subjects",
-      "Past-question drills",
-      "Marking-scheme feedback",
+          "Past question drills",
+          "Marking scheme feedback",
     ],
   },
   {
