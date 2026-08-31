@@ -2,6 +2,11 @@
   "name": "j-apex-academy",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://j-apex-academy.vercel.app",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KnowNationHQ/J-APEX-Academy.git"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
