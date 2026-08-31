@@ -6,7 +6,7 @@ import { SocialFloat } from "@/components/social-float";
 
 export const metadata: Metadata = {
   title: {
-    default: "J-APEX Academy — Nigeria's Online After-School Exam Prep Platform",
+    default: "J-APEX Academy Nigeria's Online After School Exam Prep Platform",
     template: "%s | J-APEX Academy",
   },
   description:
@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     "JAMB",
     "Post-UTME",
     "Nigeria",
-    "after-school",
+    "after school",
     "SS1",
     "SS2",
     "SS3",
@@ -25,9 +25,9 @@ export const metadata: Metadata = {
     "ScholarBoard",
   ],
   openGraph: {
-    title: "J-APEX Academy — Nigeria's Online After-School Exam Prep Platform",
+    title: "J-APEX Academy Nigeria's Online After School Exam Prep Platform",
     description:
-      "Structured live classes, expert tutors, and a results-tracking system that keeps parents and partner schools informed.",
+      "Structured live classes, expert tutors, and a results tracking system that keeps parents and partner schools informed.",
     type: "website",
   },
 };
