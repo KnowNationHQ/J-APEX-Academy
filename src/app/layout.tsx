@@ -10,7 +10,7 @@ export const metadata: Metadata = {
     template: "%s | J-APEX Academy",
   },
   description:
-    "J-APEX Academy helps SS1–SS3 students excel in WAEC, NECO, JAMB & Post-UTME with live classes, expert tutors from UNILAG & OAU, and the ScholarBoard results system for parents and partner schools.",
+    "J-APEX Academy helps SS1 to SS3 students excel in WAEC, NECO, JAMB & Post-UTME with live classes, expert tutors from UNILAG & OAU, and the ScholarBoard results system for parents and partner schools.",
   keywords: [
     "WAEC",
     "NECO",

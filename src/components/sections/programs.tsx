@@ -7,7 +7,7 @@ const programs = [
   {
     icon: FileCheck2,
     name: "WAEC",
-    text: "Full coverage of WASSCE subjects with past-question drills and marking-scheme feedback.",
+    text: "Full coverage of WASSCE subjects with past question drills and marking scheme feedback.",
     points: [
       "All core and elective subjects",
       "Past-question drills",
@@ -37,10 +37,10 @@ const programs = [
   {
     icon: Target,
     name: "Post-UTME",
-    text: "School-specific Post-UTME coaching for UNILAG, OAU and other universities.",
+    text: "School specific Post-UTME coaching for UNILAG, OAU and other universities.",
     points: [
       "UNILAG and OAU papers",
-      "School-specific coaching",
+      "School specific coaching",
       "Campus exam preparation",
     ],
   },
@@ -53,7 +53,7 @@ export function Programs() {
         <SectionHeading
           eyebrow="What we teach"
           title="One platform for every exam that matters"
-          description="Structured tracks for SS1–SS3 students, each mapped to the official Nigerian syllabus and taught by tutors who know the exams."
+          description="Structured tracks for SS1 to SS3 students, each mapped to the official Nigerian syllabus and taught by tutors who know the exams."
           align="center"
         />
         <Banner

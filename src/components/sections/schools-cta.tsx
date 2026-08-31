@@ -19,10 +19,10 @@ export function SchoolsCta() {
                 <Handshake className="h-4 w-4" /> For partner schools
               </span>
               <h2 className="mt-4 text-3xl font-bold sm:text-4xl">
-                Give your students exam prep — at no cost or risk to your school
+                Give your students exam prep, at no cost or risk to your school
               </h2>
               <p className="mt-4 text-brand-50/90">
-                J-APEX runs structured after-school classes for your SS1–SS3 students,
+                J-APEX runs structured after school classes for your SS1 to SS3 students,
                 outside school hours. We handle tutoring, scheduling and reporting through
                 ScholarBoard. You get better results and happier parents.
               </p>

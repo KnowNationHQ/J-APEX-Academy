@@ -11,7 +11,7 @@ const features = [
   {
     icon: Bell,
     title: "Parent & school alerts",
-    text: "Automatic updates when a student improves — or needs attention.",
+    text: "Automatic updates when a student improves, or needs attention.",
   },
   {
     icon: CheckCircle2,
@@ -46,8 +46,8 @@ export function ScholarBoard() {
           </h2>
           <p className="mt-4 text-brand-100/80">
             ScholarBoard turns classroom activity into insight. Parents watch their
-            child improve in real time; partner schools get the evidence that after-school
-            prep is working — with zero admin on their side.
+            child improve in real time; partner schools get the evidence that after school
+            prep is working, with zero admin on their side.
           </p>
           <ul className="mt-8 grid gap-4">
             {features.map((f) => (

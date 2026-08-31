@@ -40,7 +40,7 @@ export function Footer() {
             </span>
           </Link>
           <p className="mt-4 max-w-sm text-sm text-brand-100/80">
-            Nigeria's online after school platform helping SS1–SS3 students excel in
+            Nigeria's online after school platform helping SS1 to SS3 students excel in
             WAEC, NECO, JAMB and Post-UTME at no cost or risk to partner schools.
           </p>
           <ul className="mt-6 space-y-2 text-sm text-brand-100/80">

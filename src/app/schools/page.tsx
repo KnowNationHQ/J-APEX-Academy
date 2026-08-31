@@ -6,15 +6,15 @@ import { SectionHeading } from "@/components/section-heading";
 import { Banner } from "@/components/banner";
 
 const benefits = [
-  "No cost, no risk to your school — we run the program.",
-  "Structured after-school classes that don't clash with your timetable.",
+  "No cost, no risk to your school, we run the program.",
+  "Structured after school classes that don't clash with your timetable.",
   "Termly ScholarBoard reports delivered to your school leadership.",
   "Better exam outcomes and stronger parent confidence.",
   "Tutors from UNILAG & OAU, vetted and trained by J-APEX.",
 ];
 
 const steps = [
-  { icon: School, title: "Partner with us", text: "A short agreement connects your SS1–SS3 students to J-APEX." },
+  { icon: School, title: "Partner with us", text: "A short agreement connects your SS1 to SS3 students to J-APEX." },
   { icon: CalendarClock, title: "We run the classes", text: "Live sessions after school hours, recorded for replay." },
   { icon: LineChart, title: "You see the results", text: "ScholarBoard keeps your school and parents informed every term." },
 ];
@@ -22,7 +22,7 @@ const steps = [
 export const metadata = {
   title: "For Schools",
   description:
-    "Partner with J-APEX Academy to give your SS1–SS3 students focused WAEC, NECO, JAMB and Post-UTME prep — at no cost or risk to your school.",
+    "Partner with J-APEX Academy to give your SS1 to SS3 students focused WAEC, NECO, JAMB and Post-UTME prep, at no cost or risk to your school.",
 };
 
 export default function SchoolsPage() {
@@ -42,11 +42,11 @@ export default function SchoolsPage() {
             <div className="max-w-2xl">
               <span className="eyebrow bg-brand-500/20 text-brand-100">For schools</span>
               <h1 className="mt-4 text-4xl font-bold text-white sm:text-5xl">
-                Bring exam prep to your students — at no cost to your school
+                Bring exam prep to your students, at no cost to your school
               </h1>
               <p className="mt-4 text-brand-100/80">
                 J-APEX Academy partners with secondary schools nationwide to deliver focused,
-                after-school exam preparation. Your students get expert tutoring; your school
+                after school exam preparation. Your students get expert tutoring; your school
                 gets the credit and the proof.
               </p>
               <Link href="/contact" className="btn-gold mt-8">

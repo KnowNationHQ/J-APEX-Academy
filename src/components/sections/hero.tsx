@@ -24,13 +24,13 @@ export function Hero() {
         <div className="container-x relative flex h-full items-end pb-16 sm:pb-20">
           <div className="max-w-2xl text-white drop-shadow">
             <span className="inline-block rounded-full bg-white/15 px-3 py-1 text-sm font-medium text-white/90">
-              Nigeria · SS1 – SS3
+              Nigeria · SS1 to SS3
             </span>
             <h1 className="mt-5 text-4xl font-bold leading-[1.05] text-white drop-shadow sm:text-5xl lg:text-6xl">
               Excel in WAEC, NECO, JAMB & Post-UTME after school.
             </h1>
             <p className="mt-5 max-w-xl text-lg text-white/85">
-              J-APEX Academy is Nigeria's online after-school platform. Live classes with
+              J-APEX Academy is Nigeria's online after school platform. Live classes with
               expert tutors from UNILAG and OAU, plus a ScholarBoard that keeps parents and
               partner schools informed every step of the way.
             </p>

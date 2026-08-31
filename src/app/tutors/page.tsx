@@ -16,7 +16,7 @@ const tutors = [
 export const metadata = {
   title: "Tutors",
   description:
-    "Meet the J-APEX Academy tutors — subject experts from UNILAG and OAU who coach SS1–SS3 students for WAEC, NECO, JAMB and Post-UTME.",
+    "Meet the J-APEX Academy tutors, subject experts from UNILAG and OAU who coach SS1 to SS3 students for WAEC, NECO, JAMB and Post-UTME.",
 };
 
 export default function TutorsPage() {

@@ -22,7 +22,7 @@ export function EnrollForm() {
       <div className="card text-center">
         <CheckCircle2 className="mx-auto h-10 w-10 text-brand-600" />
         <h3 className="mt-3 font-display text-lg font-semibold">
-          Thank you — we've received your details
+          Thank you, we've received your details
         </h3>
         <p className="mt-2 text-sm text-ink-muted">
           A J-APEX advisor will reach out within 24 hours to confirm the next steps.
